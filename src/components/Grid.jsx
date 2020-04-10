@@ -19,12 +19,19 @@ export default () => (
       <EuiPageHeader>
         <EuiPageHeaderSection>
           <EuiTitle size="l">
-            <h1>Page title</h1>
+            <h1>Drill GUI</h1>
           </EuiTitle>
         </EuiPageHeaderSection>
       </EuiPageHeader>
       <EuiPageContent>
-        <EuiPageContentBody>Content body</EuiPageContentBody>
+        <EuiPageContentBody>
+          <EuiTitle size="s">
+            <h2>Grid</h2>
+          </EuiTitle>
+          <p>not implemented yet</p>
+        </EuiPageContentBody>
+
+
       </EuiPageContent>
     </EuiPageBody>
   </EuiPage>

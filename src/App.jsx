@@ -6,9 +6,7 @@ import ProjectDetail from "./pages/ProjectDetail";
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
         <ProjectDetail/>
-      </header>
     </div>
   );
 }

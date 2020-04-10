@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import '@elastic/eui/dist/eui_theme_dark.css';
 import ProjectDetail from "./pages/ProjectDetail";

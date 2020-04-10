@@ -7,6 +7,12 @@ A small demo to test some EUI components.
 https://acidjunk.github.io/drill-gui/
 
 
+## Notes regarding POC Choices
+1. Data: Used int's for the x,y coord with a max of 1000. Dynamic range detect is out of scope for the POC
+2. Data: Assumed/Presented a drill type, with a string. I don't have any real data...
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:

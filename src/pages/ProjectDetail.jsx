@@ -2,7 +2,9 @@ import React, { Component } from "react";
 import {
     EuiFlexGroup,
     EuiFlexItem,
+    EuiBottomBar
 } from "@elastic/eui";
+import Grid from "../components/Grid";
 
 
 class ProjectDetail extends Component {
@@ -21,10 +23,16 @@ class ProjectDetail extends Component {
 
     render() {
         return (
+            <>
             <EuiFlexGroup>
+                <EuiFlexItem>
+                    <Grid/>
+                </EuiFlexItem>
                 <EuiFlexItem grow={false}>Col1</EuiFlexItem>
-                <EuiFlexItem>Col2</EuiFlexItem>
             </EuiFlexGroup>
+            <EuiBottomBar paddingSize="s">
+</EuiBottomBar>
+            </>
         );
     }
 }

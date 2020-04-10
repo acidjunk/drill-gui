@@ -19,5 +19,5 @@ function checkStatus(response) {
 }
 
 export function loadProject(projectName, cb) {
-    return client.get(`/${projectName}.json`).then(checkStatus).then(lookupData).then(cb);
+    return client.get(`https://acidjunk.github.io/drill-gui/${projectName}.json`).then(checkStatus).then(lookupData).then(cb);
 }

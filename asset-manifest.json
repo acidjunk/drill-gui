@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/drill-gui/static/css/main.d1b05096.chunk.css",
+    "main.js": "/drill-gui/static/js/main.866735bb.chunk.js",
+    "main.js.map": "/drill-gui/static/js/main.866735bb.chunk.js.map",
+    "runtime-main.js": "/drill-gui/static/js/runtime-main.a18e7567.js",
+    "runtime-main.js.map": "/drill-gui/static/js/runtime-main.a18e7567.js.map",
+    "static/js/2.18d2157f.chunk.js": "/drill-gui/static/js/2.18d2157f.chunk.js",
+    "static/js/2.18d2157f.chunk.js.map": "/drill-gui/static/js/2.18d2157f.chunk.js.map",
+    "index.html": "/drill-gui/index.html",
+    "precache-manifest.0b7a72ec6731f503a172f8906b685d3e.js": "/drill-gui/precache-manifest.0b7a72ec6731f503a172f8906b685d3e.js",
+    "service-worker.js": "/drill-gui/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/drill-gui/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.18d2157f.chunk.js.LICENSE.txt": "/drill-gui/static/js/2.18d2157f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/drill-gui/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a18e7567.js",
+    "static/js/2.18d2157f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.866735bb.chunk.js"
+  ]
+}

@@ -18,12 +18,6 @@ function checkStatus(response) {
     throw error;
 }
 
-export function loadProject(projectName,cb) {
-    return client
-        .get(`/${projectName}.json`)
-        .then(checkStatus)
-        .then(lookupData)
-        .then(cb);
+export function loadProject(projectName, cb) {
+    return client.get(`/${projectName}.json`).then(checkStatus).then(lookupData).then(cb);
 }
-
-

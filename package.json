@@ -14,7 +14,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build",
+    "prettier": "prettier -c '{**/*.{js,jsx,scss,md},public/**/*.html}'",
+    "prettier-fix": "prettier --write '{**/*.{js,jsx,scss,md},public/**/*.html}'"    
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -30,5 +33,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0",
+    "import-sort-style-module": "^6.0.0",
+    "prettier": "^2.0.4",
+    "prettier-plugin-import-sort": "^0.0.4"
+  },
+  "homepage": "http://acidjunk.github.io/drill-gui",
+  "importSort": {
+    ".js, .jsx, .ts, .tsx": {
+      "style": "module"
+    }
+  }  
+
 }

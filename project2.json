@@ -1,0 +1,14 @@
+[
+    {"x": 10, "y": 10, "drill": "The heavy one", "printed": true },
+    {"x": 110, "y": 10, "drill": "The heavy one", "printed": true },
+    {"x": 10, "y": 110, "drill": "The heavy one", "printed": true },
+    {"x": 110, "y": 110, "drill": "The heavy one", "printed": true },
+    {"x": 200, "y": 20, "drill": "Super Driller", "printed": true },
+    {"x": 300, "y": 20, "drill": "Super Driller", "printed": true },
+    {"x": 200, "y": 210, "drill": "Super Driller", "printed": false },
+    {"x": 300, "y": 210, "drill": "Super Driller", "printed": false },
+    {"x": 400, "y": 400, "drill": "0.5mm", "printed": false },
+    {"x": 450, "y": 450, "drill": "0.5mm", "printed": false },
+    {"x": 500, "y": 500, "drill": "0.5mm", "printed": false },
+    {"x": 550, "y": 550, "drill": "0.5mm", "printed": false }
+]

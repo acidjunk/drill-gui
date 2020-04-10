@@ -781,15 +781,15 @@
     "icon.wrench-js.js": "/drill-gui/static/js/icon.wrench-js.78c4a01a.chunk.js",
     "icon.wrench-js.js.map": "/drill-gui/static/js/icon.wrench-js.78c4a01a.chunk.js.map",
     "main.css": "/drill-gui/static/css/main.39f8d931.chunk.css",
-    "main.js": "/drill-gui/static/js/main.55d22e75.chunk.js",
-    "main.js.map": "/drill-gui/static/js/main.55d22e75.chunk.js.map",
+    "main.js": "/drill-gui/static/js/main.b791cb21.chunk.js",
+    "main.js.map": "/drill-gui/static/js/main.b791cb21.chunk.js.map",
     "runtime-main.js": "/drill-gui/static/js/runtime-main.657c5369.js",
     "runtime-main.js.map": "/drill-gui/static/js/runtime-main.657c5369.js.map",
     "static/css/392.81c05ce4.chunk.css": "/drill-gui/static/css/392.81c05ce4.chunk.css",
     "static/js/392.715736dc.chunk.js": "/drill-gui/static/js/392.715736dc.chunk.js",
     "static/js/392.715736dc.chunk.js.map": "/drill-gui/static/js/392.715736dc.chunk.js.map",
     "index.html": "/drill-gui/index.html",
-    "precache-manifest.238f42b37c22a2f55266d6f952a801c1.js": "/drill-gui/precache-manifest.238f42b37c22a2f55266d6f952a801c1.js",
+    "precache-manifest.70c12cbda41fbbe0d181b4663bcae2d6.js": "/drill-gui/precache-manifest.70c12cbda41fbbe0d181b4663bcae2d6.js",
     "service-worker.js": "/drill-gui/service-worker.js",
     "static/css/392.81c05ce4.chunk.css.map": "/drill-gui/static/css/392.81c05ce4.chunk.css.map",
     "static/css/main.39f8d931.chunk.css.map": "/drill-gui/static/css/main.39f8d931.chunk.css.map",
@@ -800,6 +800,6 @@
     "static/css/392.81c05ce4.chunk.css",
     "static/js/392.715736dc.chunk.js",
     "static/css/main.39f8d931.chunk.css",
-    "static/js/main.55d22e75.chunk.js"
+    "static/js/main.b791cb21.chunk.js"
   ]
 }

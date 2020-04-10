@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95dba51ab1e03b83d76d96f7524b39ee",
+    "revision": "d6e754a507add1e5dc93a993c306cb54",
     "url": "/drill-gui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drill-gui/static/css/392.81c05ce4.chunk.css"
   },
   {
-    "revision": "eefb07d9c4bc2d1eae27",
+    "revision": "3c498bf98451f9109dac",
     "url": "/drill-gui/static/css/main.39f8d931.chunk.css"
   },
   {
@@ -1580,8 +1580,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/drill-gui/static/js/icon.wrench-js.78c4a01a.chunk.js"
   },
   {
-    "revision": "eefb07d9c4bc2d1eae27",
-    "url": "/drill-gui/static/js/main.55d22e75.chunk.js"
+    "revision": "3c498bf98451f9109dac",
+    "url": "/drill-gui/static/js/main.b791cb21.chunk.js"
   },
   {
     "revision": "9b01fdc1bec0e5774d58",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/drill-gui/precache-manifest.238f42b37c22a2f55266d6f952a801c1.js"
+  "/drill-gui/precache-manifest.70c12cbda41fbbe0d181b4663bcae2d6.js"
 );
 
 self.addEventListener('message', (event) => {
